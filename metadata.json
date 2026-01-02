@@ -1,0 +1,7 @@
+{
+  "name": "MyProd Tracker",
+  "description": "Gestione intelligente delle scadenze prodotti con scanner AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
